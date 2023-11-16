@@ -1,0 +1,6 @@
+site_name: EZ-Wiki
+theme:
+  name: material
+extra:
+  generator: false
+copyright: Copyright &copy; 2023 EZ-TEAM
